@@ -1,0 +1,7 @@
+{
+    "require": {
+        "rafaelwendel/phpsupabase": "^0.0.8",
+        "supabase/storage-php": "^0.0.3",
+        "ramsey/uuid": "^4.7"
+    }
+}
